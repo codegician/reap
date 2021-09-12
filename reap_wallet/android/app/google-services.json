@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "928598757200",
+    "project_id": "reap-wallet",
+    "storage_bucket": "reap-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928598757200:android:9d808461c4ac287cf3a655",
+        "android_client_info": {
+          "package_name": "com.example.reap_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928598757200-6m8pv1r1gqev73stci0f53scud7q42en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHny75ridc-B0A2XgaWlb08osacR-bbcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928598757200-6m8pv1r1gqev73stci0f53scud7q42en.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928598757200-u5lq82gl6eivsnshm49mtr8bqna11ab5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reapWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
